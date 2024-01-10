@@ -6,8 +6,9 @@ Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativan
 
 <h2>Conheça o projeto clicando na imagem abaixo:</h2>
 
-<a href="https://thalesacardoso.github.io/dio-projeto-jogo-detonaRalph">
-  <img src="./src/images/jogo.png">
+<a [href="https://thalesacardoso.github.io/dio-projeto-jogo-detonaRalph](https://www.loom.com/share/15b4bca98d1141c59e17aa5cd76b4454)">
+ ![image](https://github.com/FelipeSysten/API-CONSUMO/assets/76599815/42dab97b-eb18-420b-8b87-bc6e006109ec)
+
 </a>
 
 
