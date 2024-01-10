@@ -14,29 +14,27 @@ Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativan
 
 ### Tecnologias Utilizadas
 
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+- C# para a estrutura e criação da API.
+- Interface e consumo da API com Next.js.
+- MySql para o Banco de Dados.
 
 ### Funcionalidades Incríveis
 
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
+- **Munipulação de dados em C#**: Uma aplicação web API em C# para consumir os dados da agencia de viagens ( Somente consulta a base de dados GET ).
+- **Consumo API Next**: Interface  usando Next.Js  para consultas usando API em C#. 
 
-### Como Jogar
+### Como testar
 
 1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Marque pontos clicando em cima das caixas que aparecem o personagem.
+2. Abra o o repositorio apiexploretour e inicie a API com o Visual Studio
+3. Inicie o repositorio consume-api em sua IDE de preferencia com comando: npm run dev
 
-### Contribuição
 
-1. Adicionei a funcionalidade de diminuir vidas quando o tempo zera
-2. Adicionei o botão de continuar o jogo
 
 ### Créditos
 
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+Este Sistema foi desenvolvido como parte de um projeto educacional da Recode Pro.
 
 ---
 
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+
