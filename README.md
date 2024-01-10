@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Recode Pro - Modulo 6 - Entrega Individual</h1>
+<h1 align="center">🏆 Recode Pro - Modulo 6 - Criação API C# / Consumo em Next.js </h1>
 
 <p>  
 Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativante para explorar destinos de maneira envolvente. No vídeo, conduzo você pela interface, revelando como a integração eficiente com a API traz vida à variedade de destinos disponíveis.
