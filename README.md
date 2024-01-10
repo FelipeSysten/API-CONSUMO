@@ -20,7 +20,7 @@ Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativan
 
 ### Funcionalidades Incríveis
 
-- **Munipulação de dados em C#**: Uma aplicação web API em C# para consumir os dados da agencia de viagens ( Somente consulta a base de dados GET ).
+- **Munipulação de dados em C#**: Uma aplicação web API em C# para consumir os dados da agencia de viagens.
 - **Consumo API Next**: Interface  usando Next.Js  para consultas usando API em C#. 
 
 ### Como testar
