@@ -4,12 +4,12 @@
 Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativante para explorar destinos de maneira envolvente. No vídeo, conduzo você pela interface, revelando como a integração eficiente com a API traz vida à variedade de destinos disponíveis.
 </p>
 
-<h2>Conheça o projeto clicando na imagem abaixo:</h2>
+<h2>Conheça o projeto abaixo:</h2>
 
-<a (https://www.loom.com/share/15b4bca98d1141c59e17aa5cd76b4454)">
- ![image](https://github.com/FelipeSysten/API-CONSUMO/assets/76599815/42dab97b-eb18-420b-8b87-bc6e006109ec)
+ (https://www.loom.com/share/15b4bca98d1141c59e17aa5cd76b4454)"
 
-</a>
+
+
 
 
 ### Tecnologias Utilizadas
