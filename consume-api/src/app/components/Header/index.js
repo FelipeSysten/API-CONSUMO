@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function Header() {
 	return (
 		<header className="header">
-			<img src="/logo.png" alt="logo" />
+			<Link href="/"><img src="/logo.png" alt="logo" /></Link>
 			<ul>
 				<li>
 					<Link href="/RotaUm">Destinos</Link>

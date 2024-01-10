@@ -2,6 +2,8 @@
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
+	font-family: Helvetica;
+	
 }
 :root {
 	--color-1: #2f3033;
@@ -79,4 +81,16 @@ a:hover {
 	text-align: center;
 	line-height: 50px;
 	margin: auto;
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+	padding: 80px;
+}
+
+p{
+    color: #ffffff;
+	text-align: center;
+	padding: 30px;
 }
