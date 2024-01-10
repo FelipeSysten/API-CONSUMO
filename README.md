@@ -6,7 +6,7 @@ Com a combinação poderosa de C# e React/NextJS, criei uma experiência cativan
 
 <h2>Conheça o projeto abaixo:</h2>
 
- (https://www.loom.com/share/15b4bca98d1141c59e17aa5cd76b4454)"
+ https://www.loom.com/share/15b4bca98d1141c59e17aa5cd76b4454
 
 
 
